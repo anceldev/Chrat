@@ -89,3 +89,7 @@ iOSInjectionProject/
 
 **.DS_Store
 Chrat/Resources/GoogleService-Info.plist
+
+# Firebase emulator settings
+.firebaserc
+firebase.json
